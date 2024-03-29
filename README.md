@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... SQL , Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... miko.triple1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I'm kinda liking this field after trying 2-3 other options. This really feels good.
 
 <!---
 Miko0115/Miko0115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
