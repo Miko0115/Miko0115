@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Param Chaudhary
 - 👀 I’m interested in ... Data Scientist and ML
 - 🌱 I’m currently learning ... Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Data Science/ML projects
 - 📫 How to reach me ... paramchdhry@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm kinda liking this field after trying 2-3 other options. This really feels good.
